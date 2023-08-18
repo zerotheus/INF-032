@@ -1,0 +1,10 @@
+print("Digite o primeiro numero")
+numero1 = int(input())
+print("Digite o segundo numero")
+numero2 =int(input())
+print("Digite o terceiro numero")
+numero3 = int(input())
+print("Digite o quatro numero")
+numero4 =int(input())
+media = (numero1 * 1 + numero2 * 2 + numero3 * 3 + numero4 * 4)/(1+2+3+4);
+print(media)
